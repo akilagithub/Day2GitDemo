@@ -1,0 +1,5 @@
+git add .
+git commit
+git push
+
+are the basics commands in git
